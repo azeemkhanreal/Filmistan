@@ -1,4 +1,4 @@
-Filmistan is a hub of movies which help to decide what movie what . in this app user can figure out info of movies and can also watch trailer.
+Filmistan is a hub of movies which help to decide what movie watch . in this app user can figure out info of movies and can also watch trailer.
 
 ### `yarn start`
 
